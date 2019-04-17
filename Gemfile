@@ -9,3 +9,6 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll", "~> 3.7"
 
 gem "jekyll-include-cache"
+
+gem "jekyll-github-metadata"
+
